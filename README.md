@@ -96,23 +96,23 @@ The easiest way to install the NumPy and Pygame packages for Python is by using 
 
 Upon executing the program, the user will be displayed a window which serves to the be the GUI for the board game. The user is prompted to press the space bar to play the game.
 
-<img src="images/startingScreen.png" alt="Logo" width="600" height="500">
+<img src="images/startingScreen.png" alt="Starting Screen" width="600" height="500">
 
 The user is prompted with the options to play player vs. player, player vs. computer, and computer vs. computer or to view the instructions of the game.
 
-<img src="images/options.png" alt="Logo" width="600" height="500">
+<img src="images/options.png" alt="Options" width="600" height="500">
 
 If the user chooses the "How To Play" option, they will be greeted with the following screen to help them understand how to play the game.
 
-<img src="images/instructions.png" alt="Logo" width="600" height="500">
+<img src="images/instructions.png" alt="Instructions" width="600" height="500">
 
 If the user chooses one of the gaming options, the screen will switch to the view of a board with a score counter to the side that will keep up with the game. The board view is consistent across all gaming options and the user can begin playing or viewing the game.
 
-<img src="images/board.png" alt="Logo" width="600" height="500">
+<img src="images/board.png" alt="Board View" width="600" height="500">
 
 Once the board is filled, a winner or tie will be decided and a respective screen will be shown. The user will have the option to play again or return to the home screen.
 
-<img src="images/winningScreen.png" alt="Logo" width="600" height="500">
+<img src="images/winningScreen.png" alt="Winning Screen" width="600" height="500">
 
 
 The user can continue to play for as long as they like!
