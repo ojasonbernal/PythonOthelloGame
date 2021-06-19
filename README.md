@@ -45,7 +45,7 @@ Othello is a strategy board game for two players, played on an 8×8 uncheckered 
 
 
 
-Results of the project:
+Results of the project
 * Designed and programmed an algorithm to detect valid moves, the final winner, and a possible tie.
 * Features player vs. player, player vs. computer, and computer vs. computer gaming modes.
 * Customized the Graphical User Interface to include music and background images.
@@ -146,3 +146,10 @@ Project Link: [https://github.com/ojasonbernal/PythonOthelloGame](https://github
 * [Official Rules For The Game Othello](https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english)
 * [Othello: An Introduction to Strategy and Tactics](http://www.gaurang.org/gothello/guide/guide.html)
 * [https://freemp3cloud.com/](https://freemp3cloud.com/)
+
+### Images
+* [Othello Board View](https://www.learnmathwithgames.com/wp-content/uploads/2018/06/811liThCnsL._SL1500_-750x500.jpg)
+* [Othello Home Screen](https://forums.automobile-propre.com/uploads/monthly_2019_07/tsukuda.jpg.698f8953a8a2fa31a760e90d5aac28c7.jpg)
+* [Othello Options Screen](https://geekoutsw.files.wordpress.com/2018/05/othello_reversi_board.jpg)
+* [Othello Instructions Screen](https://image.slideserve.com/335538/othello-rules-and-game-play-n.jpg)
+* [Wood Background](https://www.stockphotosecrets.com/wp-content/uploads/2018/11/dreamstime3.jpg)
