@@ -1,9 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/othello.jpg" alt="Othello" width="500" height="350">
+  </a>
   <h3 align="center">Python Othello Game</h3>
   <p align="center">
-    Othello, also known as Reversi, simulated using Python
+    Othello, also known as Reversi, simulated using Python.
   </p>
 </p>
 
