@@ -55,7 +55,7 @@ A list of commonly used resources that I found helpful are listed in the acknowl
 
 ### Built With
 
-The game was built with using Python along with the additional packages: 
+The game was built using Python along with the additional packages: 
 * [Pygame](https://www.pygame.org/docs/)
 * [NumPy](https://numpy.org/doc/)
 * [Random](https://docs.python.org/3/library/random.html)
