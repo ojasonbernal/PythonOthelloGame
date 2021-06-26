@@ -97,7 +97,11 @@ The easiest way to install the NumPy and Pygame packages for Python is by using 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Upon executing the program, the user will be displayed a window which serves to the be the GUI for the board game. The user is prompted to press the space bar to play the game.
+Upon executing the program, the user will be prompted in the console to enter a name for each user that will be playing, as well for the computer players. The user will also have the ability to select background music if they chose to do so. 
+
+<img src="images/launch.PNG" alt="Launch" width="600" height="150">
+
+Once the user selects a choice for music, a window displayed will be which serves to the be the GUI for the board game. The user is prompted to press the space bar to play the game.
 
 <img src="images/startingScreen.PNG" alt="Starting Screen" width="600" height="500">
 
